@@ -1,0 +1,65 @@
+/* body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  } */
+
+
+
+  .titulo-pagina{
+    font-size: 2.8em;
+    color: rgb(12, 12, 87);
+    width: 50vw;
+    padding: 1em;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  h2{
+    width: 50vw;
+    padding: 1em;
+    color: brown;
+  }
+
+.parrafo{
+  background-color: rgb(70, 173, 180);
+  width: fit-content;
+  padding: 0.7em;
+}
+
+  h3{
+    font-size: 1.3em;
+    color: brown;
+  }
+
+  .cards{
+    border: 6px solid black;
+    display: flex;
+    align-items: center;
+    
+    
+  }
+
+  ol, ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+.cards-container{
+    background-color: rgb(82, 82, 7);
+    width: 60vw;
+    padding: 1em 0em 1em 0em;
+    margin-top: 2em;
+    border: 3px solid black;
+    border-radius: 4%;
+    display: flex;
+    justify-content: center;
+    
+    
+   
+  }
